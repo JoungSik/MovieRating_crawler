@@ -1,2 +1,11 @@
-# MovieRating_crawler
-MovieRating Crawler
+# Movie Rating Cralwer
+
+💡 네이버 영화 평점을 기반으로 한 평점 분석 서비스
+
+- 영화 라는 주제로 ELK Stack 을 학습 할 수 있는 서비스
+
+---
+
+분석을 위한 크롤링 어플리케이션
+
+네이버 영화 페이지
